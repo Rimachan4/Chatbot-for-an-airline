@@ -13,6 +13,7 @@ Avoid providing generic baggage allowance information.
 Implementation
 User Interface
 **Technology**: Streamlit
+
 **Purpose**: Create an intuitive user interface for interacting with the chatbot.
 Baggage Allowance Data
 Store baggage allowance data in the chatbot's context to ensure quick and accurate responses.
