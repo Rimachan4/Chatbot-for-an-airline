@@ -3,9 +3,6 @@
 Create a chatbot that effectively handles user queries about baggage allowances by gathering all necessary information before providing specific responses.
 
 ## Requirements
-Information Gathering
-Prompt for Missing Information:
-
 Ask the user for their source (departure city), destination (arrival city), and travel class (e.g., Economy, Business, First) if these details are not provided.
 Ensure that the chatbot does not ask for information that has already been provided by the user.
 
